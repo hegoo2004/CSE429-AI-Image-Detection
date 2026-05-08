@@ -9,7 +9,7 @@ Detects AI-generated images using a frozen CLIP-ViT-L/14 backbone + 769-paramete
 ---
 
 ## 🌐 Live Demo
-👉 **[Try it on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/ai-image-detector)**
+👉 **[Try it on Hugging Face Spaces](https://huggingface.co/spaces/hego2004/ai-image-detector)**
 
 Upload any image and the model will tell you if it's real or AI-generated.
 
